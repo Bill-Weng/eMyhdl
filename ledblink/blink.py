@@ -23,6 +23,7 @@ def blink_b(clock, enable, led):
 
     return inc, led_assign
 
+# new change
 # if __name__ == '__main__':
 #
 #     @block
